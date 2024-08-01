@@ -11,4 +11,3 @@ describe('Holiday Destination Webpage Tests', () => {
     
     it('Should find the em tag', () => cy.get('em').should('be.visible'));
 });
-
